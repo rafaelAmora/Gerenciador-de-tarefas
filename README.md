@@ -29,10 +29,10 @@ Desenvolvido com **Express**, **Prisma**, **JWT**, **Zod** e **middlewares perso
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/rafaelAmora/Gerenciador-de-tarefas.git
 
 # 2. Acesse o diretório
-cd seu-projeto
+cd sua-pasta
 
 # 3. Instale as dependências
 yarn install
